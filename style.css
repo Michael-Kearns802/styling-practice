@@ -1,0 +1,22 @@
+h1{
+    background-color: #000000;
+    font-weight: bold;
+    color: white;
+}
+
+.dualcolor-word{
+    color: teal; 
+}
+
+h2 {
+    background-color: rebeccapurple;
+    text-align: center;
+    font-style: italic;
+    color: white; 
+}
+
+h3{
+    background-color: lightblue;
+    text-align: right;
+    text-decoration: underline;
+}
